@@ -13,17 +13,17 @@ My website: [https://www.max49.cf](https://www.max49.cf/)
 
 ## My current projects
 Some projects that I'm currently working on:<br />
-    - [Chemistry Bot](https://github.com/max-49/chembot)<br />
-    - [Kennedy VEX Bot](https://github.com/max-49/kennedyvexbot)<br />
-    - [Stats Tests](https://github.com/max-49/stats-tests)<br />
-    - MCS Cyberpatriot Scripts (Private)<br />
-    - Max49's Website (Private)<br />
+    - [Max49's Website](https://www.github.com/max-49/max49-website)<br />
+    - [Chemistry Bot](https://www.github.com/max-49/chembot)<br />
+    - [Kennedy VEX Bot](https://www.github.com/max-49/kennedyvexbot)<br />
+    - [Stats Tests](https://www.github.com/max-49/stats-tests)<br />
+    - MCS CyberPatriot Scripts (Private)<br />
 
 ## Other past projects that I'm proud of
-Some projects that I am no longer actively working on but am still proud of include:<br />
+Some projects that I am no longer actively working on but am still proud of:<br />
     - [Max RSA Tool](https://github.com/max-49/maxrsatool)<br />
-    - [Reduce Water Contamination (RWC)](https://github.com/max-49/rwc-wctd-2021-final) We Connect The Dots 2021 Code-a-thon project (First place)<br />
-    - [First Look Dermatology](https://github.com/max-49/wctd-2022) We Connect The Dots 2022 Code-a-thon project (First place)<br />
+    - [Reduce Water Contamination (RWC)](https://github.com/max-49/rwc-wctd-2021-final) We Connect The Dots 2021 Code-A-Thon project (1st Place)<br />
+    - [First Look Dermatology](https://github.com/max-49/wctd-2022) We Connect The Dots 2022 Code-A-Thon project (1st Place)<br />
 
 ## My GitHub Stats
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-49&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<a/>
