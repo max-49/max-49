@@ -9,7 +9,7 @@
 ## About me
 My name is Max and welcome to my profile! Here, you'll find various projects that I've been working on over the past couple of years, many of which I'm still contributing to. Feel free to follow me if you want to keep up with my coding journey!
 
-My website: [https://www.max49.cf](https://www.max49.cf/)
+My website: [https://www.max49.cf](13.90.75.65) (currently working on recovering a domain for this website)
 
 ## My current projects
 Some projects that I'm currently working on:<br />
