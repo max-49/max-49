@@ -26,6 +26,4 @@ Some projects that I am no longer actively working on but am still proud of:<br 
     - [First Look Dermatology](https://github.com/max-49/wctd-2022) We Connect The Dots 2022 Code-A-Thon project (1st Place)<br />
 
 ## My GitHub Stats
-[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-49&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<a/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-49&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
