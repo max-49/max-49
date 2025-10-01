@@ -7,9 +7,9 @@
 ![](https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=Powershell&logoColor=white&color=2bbc8a)
 
 ## About me
-My name is Max and welcome to my profile! Here, you'll find various projects that I've been working on over the past couple of years, many of which I'm still contributing to. Feel free to follow me if you want to keep up with my coding journey!
+My name is Massimo and welcome to my GitHub! Here, you'll find various projects that I've been working on over the past couple of years, many of which I'm still contributing to. Feel free to follow me if you want to keep up with my coding journey!
 
-My website: [https://www.max49.cf](http://13.90.75.65/) (currently working on recovering a domain for this website)
+<!-- My website: [https://www.max49.cf](http://13.90.75.65/) (currently working on recovering a domain for this website)
 
 ## My current projects
 Some projects that I'm currently working on:<br />
@@ -23,7 +23,7 @@ Some projects that I'm currently working on:<br />
 Some projects that I am no longer actively working on but am still proud of:<br />
     - [Max RSA Tool](https://github.com/max-49/maxrsatool)<br />
     - [Reduce Water Contamination (RWC)](https://github.com/max-49/rwc-wctd-2021-final) We Connect The Dots 2021 Code-A-Thon project (1st Place)<br />
-    - [First Look Dermatology](https://github.com/max-49/wctd-2022) We Connect The Dots 2022 Code-A-Thon project (1st Place)<br />
+    - [First Look Dermatology](https://github.com/max-49/wctd-2022) We Connect The Dots 2022 Code-A-Thon project (1st Place)<br /> -->
 
 ## My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-49&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
