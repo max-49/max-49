@@ -15,7 +15,11 @@ My name is Max and welcome to my GitHub! You might know me as my bagel persona (
 - **ZeroPAM** ([link](https://www.github.com/max-49/zeropam)): Linux PAM shim for capturing plaintext credentials during simulated red team engagements (red vs. blue cybersecurity competitions). Applies a patch to the PAM source code for various Linux distributions (compiled dynamically using Docker containers) that allows for persistence on Linux machines during competitions.
 - **RIT CCDC Competition Resources** ([link](https://www.github.com/CCDC-RIT)): As a member of the CCDC team, I work on our scripts and other resources to allow for automated auditing, backups, and system hardening of machines in a simulated enterprise environment during competitions. My focus recently has been on utilizing and securing the service Teleport, a secure Infrastructure Access Platform that secures access to servers, databases, and applications.
 
-## Off GitHub
+### Off GitHub
+- **Educational Talks**: I occassionaly give education and research presentations for RIT's cybersecurity club, RITSEC! Here are the talks I've done so far:
+    - [Intro to Blue Team](https://www.youtube.com/watch?v=o26rnpy_V30)
+    - ["Hacking" a New Mobile Biometric Factor](https://www.youtube.com/watch?v=OXL2dGSbPa8)
+    - Passing the OSCP+ (Coming Soon)
 - **Research**: During my time in college, I've previously done research in the history of local authentication on different operating systems. I am currently doing research into benchmarking TLS using post-quantum cryptographic algorithms on resource-constrained IoT devices as well as implementing Local Differential Privacy (LDP) for credential harvesters during simulated red team engagements!
 - **Other**: Check out my LinkedIn for more about what I'm doing!
 
